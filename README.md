@@ -1,11 +1,11 @@
 # ToDo Application
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- ![](public/images/todoimage2.png)
+ ![](src/images/TodoList%20Image1.png)
+ ![](src/images/todoimage2.png)
 
 
-![TodoList Image1](https://user-images.githubusercontent.com/78703736/148684118-aa486298-0e14-4f1f-98c1-7e507e81610a.png)
-![todoimage2](https://user-images.githubusercontent.com/78703736/148684220-f5e8484a-cae5-4d96-8f3a-ee0148a4794d.png)
+
 
 
 
