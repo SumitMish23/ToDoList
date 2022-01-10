@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## About
 
 * A Simple Todo app for organizing daily day to day tasks.
-* Build in React Js and Styled in Bootstrap
+* Build in React Js and Styled in Bootstrap.
 
 ## How to Use
 ### `npm start`
